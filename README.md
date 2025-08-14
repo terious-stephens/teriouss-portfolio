@@ -1,6 +1,6 @@
 # teriouss-portfolio
 
-This is my display of the knowledge accumulated thoughout my career, expressed in a manner of the provided documents listed here.
+This is my display of the knowledge accumulated throughout my career, expressed in a manner of the provided documents listed here.
 
 Listed Docs:
 •	Acceptable Use Policy
