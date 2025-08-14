@@ -7,12 +7,12 @@ This portfolio showcases my expertise in Governance, Risk, and Compliance (GRC) 
 ## 📄 Featured Work
 
 - **[Acceptable Use Policy](https://github.com/terious-stephens/teriouss-portfolio/blob/main/TStephens_AUP.pdf)** – Defines acceptable and prohibited use of corporate systems, aligned with ISO 27002 standards.
-- **[Data Retention & Disposal Policy](https://github.com/tstep689/teriouss-portfolio/blob/main/TStephens_Data%20Retention%20and%20Disposal%20Policy.pdf)** – Outlines lifecycle management of information assets and secure data destruction practices.
-- **[Incident Response Plan](https://github.com/tstep689/teriouss-portfolio/blob/main/TStephens_Incident%20Response%20Plan.pdf)** – NIST-based, 6-phase IR plan with escalation matrix and communication guidelines.
-- **[Information Classification & Management Policy](https://github.com/tstep689/teriouss-portfolio/blob/main/TStephens_Info%20Class%20and%20Mgt%20Policy.pdf)** – Security categorization framework aligned with FIPS 199 & NIST SP 800-60.
-- **[Risk Assessment Report](https://github.com/tstep689/teriouss-portfolio/blob/main/TStephens_Risk%20Assessment%20Report.pdf)** – Qualitative and quantitative risk analysis with recommended mitigations.
-- **[Risk Management Policy](https://github.com/tstep689/teriouss-portfolio/blob/main/TStephens_Risk%20Mgt%20Policy.pdf)** – Governance framework for identifying, evaluating, and mitigating organizational risks.
-- **[Risk Scenario Sample](https://github.com/tstep689/teriouss-portfolio/blob/main/TStephens_Risk%20Scenario%20Sample.pdf)** – Example risk scenario with likelihood and impact scoring.
+- **[Data Retention & Disposal Policy](https://github.com/terious-stephens/teriouss-portfolio/blob/main/TStephens_Data%20Retention%20and%20Disposal%20Policy.pdf)** – Outlines lifecycle management of information assets and secure data destruction practices.
+- **[Incident Response Plan](https://github.com/terious-stephens/teriouss-portfolio/blob/main/TStephens_Incident%20Response%20Plan.pdf)** – NIST-based, 6-phase IR plan with escalation matrix and communication guidelines.
+- **[Information Classification & Management Policy](https://github.com/terious-stephens/teriouss-portfolio/blob/main/TStephens_Info%20Class%20and%20Mgt%20Policy.pdf)** – Security categorization framework aligned with FIPS 199 & NIST SP 800-60.
+- **[Risk Assessment Report](https://github.com/terious-stephens/teriouss-portfolio/blob/main/TStephens_Risk%20Assessment%20Report.pdf)** – Qualitative and quantitative risk analysis with recommended mitigations.
+- **[Risk Management Policy](https://github.com/terious-stephens/teriouss-portfolio/blob/main/TStephens_Risk%20Mgt%20Policy.pdf)** – Governance framework for identifying, evaluating, and mitigating organizational risks.
+- **[Risk Scenario Sample](https://github.com/terious-stephens/teriouss-portfolio/blob/main/TStephens_Risk%20Scenario%20Sample.pdf)** – Example risk scenario with likelihood and impact scoring.
 
 ---
 
