@@ -6,7 +6,7 @@ This portfolio showcases my expertise in Governance, Risk, and Compliance (GRC) 
 
 ## 📄 Featured Work
 
-- **[Acceptable Use Policy]((https://github.com/tstep689/teriouss-portfolio/blob/main/TStephens_AUP.pdf))** – Defines acceptable and prohibited use of corporate systems, aligned with ISO 27002 standards.
+- **[Acceptable Use Policy](https://github.com/tstep689/teriouss-portfolio/blob/main/TStephens_AUP.pdf)** – Defines acceptable and prohibited use of corporate systems, aligned with ISO 27002 standards.
 - **[Data Retention & Disposal Policy](Data%20Retention%20and%20Disposal%20Policy.pdf)** – Outlines lifecycle management of information assets and secure data destruction practices.
 - **[Incident Response Plan](Incident%20Response%20Plan.pdf)** – NIST-based, 6-phase IR plan with escalation matrix and communication guidelines.
 - **[Information Classification & Management Policy](Information%20Classification%20and%20Management%20Policy.pdf)** – Security categorization framework aligned with FIPS 199 & NIST SP 800-60.
